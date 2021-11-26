@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DunklerVater
+- 👀 I’m interested in IT-Administration
+- 🌱 I’m currently learning Powershell and .bat Scripting
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me patrick.knoepfler@kurzmann.at
